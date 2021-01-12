@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Felty\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Felty\\.nuget\\packages"
+    ]
+  }
+}
